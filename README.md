@@ -2,7 +2,7 @@
  
 ## About me...
 
-Hi, I am Lucas, student of analysis and system development, besides, studying about the technologies below.
+Hi, I am Lucas, graduated in analysis and system development
 
 I am a lover of technology and coding :man_technologist:
  
