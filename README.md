@@ -8,6 +8,7 @@ I am a lover of technology and coding :man_technologist:
  
  
 ## Technologies
+<code><img height="20" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
@@ -18,7 +19,7 @@ I am a lover of technology and coding :man_technologist:
 <code><img height="20" src="https://img.shields.io/badge/Java-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <code><img height="20" top="20px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></code>
+
 
 
 ## Social
