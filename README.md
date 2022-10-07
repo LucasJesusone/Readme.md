@@ -2,7 +2,7 @@
  
 ## About me...
 
-Hi, I am Lucas, graduated in analysis and system development
+Hi, I am Lucas, graduated in analysis and system development, actually I'm working as a full-stack developer at BBTS
 
 I am a lover of technology and coding :man_technologist:
  
